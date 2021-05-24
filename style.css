@@ -1,0 +1,43 @@
+#Cl {
+    background color:aqua;
+}
+body {
+    text-align: center;
+}
+#cl {
+    border:1px solid blue;
+padding-left:0px;
+padding-right:0px;
+    float:none;
+    background-color:black;
+}
+#lll {
+border:1px solid white;
+    
+}
+#llll {
+border:1px solid white;
+    
+}
+body {
+    
+}
+#achievements id{
+    padding-bottom:10px;
+    
+}
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;
+    
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:orange;
+}
